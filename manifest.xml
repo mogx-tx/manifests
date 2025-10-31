@@ -4,5 +4,4 @@
 	<default remote="origin" revision="main"/>
 	<project name="apps_example" path="apps/example"/>
 	<project name="book_m" path="book_m"/>
-	<project name="l_m" path="l_m"/>
 </manifest>
